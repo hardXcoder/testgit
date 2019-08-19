@@ -1,3 +1,23 @@
 Hello
 ujjwal 
+To close the vi editor press ESC + :q!
+
+To write the text in the vi editor file, press i and then start typing the content
+
+To Save and quit the vi editor : ESC + : wq
+
+To see the content of file : cat <filename>
+
+To see the current branch of Work : git branch
+
+To add the remote in the git repo : git remote add <remote_name> <url>
+
+To see the git remote of a repo : git remote -v
+
+To change the remote Url : git remote add <prev_remote_name> <new_url>
+
+To remove any remote from the git repo : git remote remove <remote_name>
+
+To rename the remote name : git remote rename <old_remote> <new_remote>
+
 
